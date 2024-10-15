@@ -3,11 +3,11 @@ Tugas Pemrograman Web P4
 
 **Validasi Dokumen Html** <br>
 Validasi lab3_list.html<br>
- <img src="/Lab3Web(ss)/validasi_list.png" img><br>
+ <img src="/validasi_list.png" img><br>
 Validasi lab3_tabel.html<br>
- <img src="/Lab3Web(ss)/validasi_tabel.png" img><br>
+ <img src="/validasi_tabel.png" img><br>
 Validasi lab3_form.html<br>
-<img src="/Lab3Web(ss)/validasi_form.png" img><br>
+<img src="/validasi_form.png" img><br>
 
 **Membuat Ordered List** <br>
  <img src="/Lab3Web(ss)/1.png" img> <br>
