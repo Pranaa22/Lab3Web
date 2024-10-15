@@ -1,6 +1,8 @@
 # Lab3Web
 Tugas Pemrograman Web P4
 
+[Project Link](https://pranaa22.github.io/Lab3Web/)
+
 **Validasi Dokumen Html** <br>
 
 Validasi lab3_list.html<br>
