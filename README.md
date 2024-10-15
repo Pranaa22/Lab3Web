@@ -1,11 +1,13 @@
 # Lab3Web
 Tugas Pemrograman Web P4
 
-**Instruksi Praktikum**
-1. Persiapkan text editor misalnya VSCode. 
-2. Buat folder baru dengan nama Lab3Web 
-3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya. 
-4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org <br>
+**Validasi Dokumen Html** <br>
+Validasi lab3_list.html<br>
+ <img src="/Lab3Web(ss)/validasi_list.png" img><br>
+Validasi lab3_tabel.html<br>
+ <img src="/Lab3Web(ss)/validasi_tabel.png" img><br>
+Validasi lab3_form.html<br>
+<img src="/Lab3Web(ss)/validasi_form.png" img><br>
 
 **Membuat Ordered List** <br>
  <img src="/Lab3Web(ss)/1.png" img> <br>
