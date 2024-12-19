@@ -1,5 +1,5 @@
 # Lab3Web
-Tugas Pemrograman Web P4
+Tugas Pertemuan 4 Pemrograman Web 1
 
 [Project Link](https://pranaa22.github.io/Lab3Web/)
 
